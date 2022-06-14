@@ -58,14 +58,11 @@ public class RouteNotFoundError extends Component
                 .isProductionMode();
 
         String template = getErrorHtml(productionMode);
-        // {{routes}} should be replaced first so that it's not possible to
-        // insert {{routes}} snippet via other template values which may result
-        // in the listing of all available routes when this shouldn't not happen
+        template = template.replace("{{path}}", path);
+        template = template.replace("{{additionalInfo}}", additionalInfo);
         if (template.contains("{{routes}}")) {
             template = template.replace("{{routes}}", getRoutes(event));
         }
-        template = template.replace("{{additionalInfo}}", additionalInfo);
-        template = template.replace("{{path}}", path);
 
         getElement().appendChild(new Html(template).getElement());
         return HttpServletResponse.SC_NOT_FOUND;
