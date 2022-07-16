@@ -1,0 +1,1322 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-resources:jar:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-common:jar:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-pwa:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-pnpm-dev-mode:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-dev-mode:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-dev-mode:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-root-ui-context:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-frontend-custom-context:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-router-custom-context:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-subcontext:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-scalability:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-memory-leaks:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-servlet:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-themes:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-themes-legacy:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-themes-legacy-npm:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-lumo-theme:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-material-theme:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-servlet-containers-test:pom:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-live-reload-mode:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ line 71, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-embedding-test-assets:jar:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-embedding-generic:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-embedding-theme-variant:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-embedding-production:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-embedding-generic-compatibility:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-embedding-theme-variant-compatibility:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-embedding-production-compatibility:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-embedding-app-theme:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-reusable-embedded-theme:jar:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-embedding-reusable-theme:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-embedding:pom:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-misc-test:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-misc-test-bower:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-pnpm-production:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-production:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-bower-dev-mode:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-bower-prod-mode:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-default-theme:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-general:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-no-buildmojo:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-custom-frontend-directory:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-bytecode-scanning-devmode:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-bytecode-scanning-production:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-bytecode-scanning-fallback-production:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-performance-regression:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-npm-only-features:pom:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-multi-war1:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-multi-war2:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-multi-war-bundle:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-multi-war:pom:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-root-context:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-custom-route-registry:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:reusable-theme:jar:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-application-theme-reusable:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-use-reusable-as-parent:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-application-theme-live-reload:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ line 60, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-application-theme-component-live-reload:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ line 66, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-test-application-theme-switch-live-reload:war:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ line 72, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:test-application-theme:pom:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ com.vaadin:flow-tests:2.6-SNAPSHOT, /home/yiwu/Documents/nvd/projects/flow-cve/flow-tests/pom.xml, line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-tests:pom:2.6-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.codehaus.mojo:properties-maven-plugin is missing. @ line 90, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.vaadin:flow-bom:pom:2.6-SNAPSHOT
+[WARNING] 'dependencyManagement.dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: com.vaadin:flow-dnd:jar -> duplicate declaration of version ${project.version} @ line 71, column 25
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] -----------------------< com.vaadin:flow-server >-----------------------
+[INFO] Building Flow Server 2.6-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- directory-maven-plugin:0.3.1:highest-basedir (set-root-dir-for-clean-lifecycle) @ flow-server ---
+[INFO] Highest basedir set to: /home/yiwu/Documents/nvd/projects/flow-cve
+[INFO] 
+[INFO] --- maven-clean-plugin:3.0.0:clean (default-clean) @ flow-server ---
+[INFO] Deleting /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/target
+[INFO] 
+[INFO] --- build-helper-maven-plugin:3.0.0:parse-version (parse-version) @ flow-server ---
+[INFO] 
+[INFO] --- directory-maven-plugin:0.3.1:highest-basedir (set-root-dir-for-common-lifecycle) @ flow-server ---
+[INFO] Highest basedir set to: /home/yiwu/Documents/nvd/projects/flow-cve
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.4.1:enforce (check-logging-imports) @ flow-server ---
+[INFO] 
+[INFO] --- build-helper-maven-plugin:3.0.0:add-test-resource (add-resource) @ flow-server ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ flow-server ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] Copying 47 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ flow-server ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 624 source files to /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/target/classes
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/main/java/com/vaadin/flow/component/page/PendingJavaScriptResult.java: Some input files use or override a deprecated API.
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/main/java/com/vaadin/flow/component/page/PendingJavaScriptResult.java: Recompile with -Xlint:deprecation for details.
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/main/java/com/vaadin/flow/component/internal/UIInternals.java: Some input files use unchecked or unsafe operations.
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/main/java/com/vaadin/flow/component/internal/UIInternals.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- bnd-maven-plugin:3.3.0:bnd-process (default) @ flow-server ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ flow-server ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 46 resources
+[INFO] Copying 345 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ flow-server ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 344 source files to /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/target/test-classes
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/test/java/com/vaadin/flow/internal/ResponseWriterTest.java: Some input files use or override a deprecated API.
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/test/java/com/vaadin/flow/internal/ResponseWriterTest.java: Recompile with -Xlint:deprecation for details.
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/test/java/com/vaadin/flow/internal/JsonSerializerTest.java: Some input files use unchecked or unsafe operations.
+[INFO] /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/src/test/java/com/vaadin/flow/internal/JsonSerializerTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ flow-server ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.vaadin.packaging.SplitPackagesTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in com.vaadin.packaging.SplitPackagesTest
+[INFO] Running com.vaadin.flow.NotifierTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.079 s - in com.vaadin.flow.NotifierTest
+[INFO] Running com.vaadin.flow.internal.CaseUtilTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.vaadin.flow.internal.CaseUtilTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.NodeMapEmptyRequiredFeatureTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s - in com.vaadin.flow.internal.nodefeature.NodeMapEmptyRequiredFeatureTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.LoadingIndicatorConfigurationMapTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.028 s - in com.vaadin.flow.internal.nodefeature.LoadingIndicatorConfigurationMapTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.NodeValueEmptyRequiredFeatureTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s - in com.vaadin.flow.internal.nodefeature.NodeValueEmptyRequiredFeatureTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.NodeListEmptyRequiredFeatureTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 s - in com.vaadin.flow.internal.nodefeature.NodeListEmptyRequiredFeatureTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.VirtualChildrenListTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s - in com.vaadin.flow.internal.nodefeature.VirtualChildrenListTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.StateNodeNodeListTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s - in com.vaadin.flow.internal.nodefeature.StateNodeNodeListTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.DependencyListTest
+[INFO] Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.402 s - in com.vaadin.flow.internal.nodefeature.DependencyListTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.NodeListAddRemoveTest
+[INFO] Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in com.vaadin.flow.internal.nodefeature.NodeListAddRemoveTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.NodeFeatureTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 s - in com.vaadin.flow.internal.nodefeature.NodeFeatureTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.VisibilityDataTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.265 s - in com.vaadin.flow.internal.nodefeature.VisibilityDataTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.ElementDataTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.029 s - in com.vaadin.flow.internal.nodefeature.ElementDataTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.AttachExistingElementFeatureTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.411 s - in com.vaadin.flow.internal.nodefeature.AttachExistingElementFeatureTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.ReconnectDialogConfigurationMapTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.029 s - in com.vaadin.flow.internal.nodefeature.ReconnectDialogConfigurationMapTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.PollConfigurationMapTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s - in com.vaadin.flow.internal.nodefeature.PollConfigurationMapTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.ReturnChannelMapTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s - in com.vaadin.flow.internal.nodefeature.ReturnChannelMapTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.ListFeatureSetViewTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.265 s - in com.vaadin.flow.internal.nodefeature.ListFeatureSetViewTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.PushConfigurationMapTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s - in com.vaadin.flow.internal.nodefeature.PushConfigurationMapTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.NodeMapTest
+[INFO] Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.092 s - in com.vaadin.flow.internal.nodefeature.NodeMapTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.SerializableNodeListTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.051 s - in com.vaadin.flow.internal.nodefeature.SerializableNodeListTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.ElementListenersTest
+[INFO] Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.319 s - in com.vaadin.flow.internal.nodefeature.ElementListenersTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.PolymerServerEventHandlersTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.46 s - in com.vaadin.flow.internal.nodefeature.PolymerServerEventHandlersTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.ElementPropertyMapTest
+[INFO] Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.075 s - in com.vaadin.flow.internal.nodefeature.ElementPropertyMapTest
+[INFO] Running com.vaadin.flow.internal.nodefeature.ClientCallableHandlersTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 s - in com.vaadin.flow.internal.nodefeature.ClientCallableHandlersTest
+[INFO] Running com.vaadin.flow.internal.JsonSerializerTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 s - in com.vaadin.flow.internal.JsonSerializerTest
+[INFO] Running com.vaadin.flow.internal.ConstantPoolTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s - in com.vaadin.flow.internal.ConstantPoolTest
+[INFO] Running com.vaadin.flow.internal.CurrentInstanceTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.296 s - in com.vaadin.flow.internal.CurrentInstanceTest
+[INFO] Running com.vaadin.flow.internal.StateTreeTest
+[INFO] Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.419 s - in com.vaadin.flow.internal.StateTreeTest
+[INFO] Running com.vaadin.flow.internal.change.ListChangeTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s - in com.vaadin.flow.internal.change.ListChangeTest
+[INFO] Running com.vaadin.flow.internal.change.MapPutChangeTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 s - in com.vaadin.flow.internal.change.MapPutChangeTest
+[INFO] Running com.vaadin.flow.internal.change.MapRemoveChangeTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.028 s - in com.vaadin.flow.internal.change.MapRemoveChangeTest
+[INFO] Running com.vaadin.flow.internal.JsonUtilsTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in com.vaadin.flow.internal.JsonUtilsTest
+[INFO] Running com.vaadin.flow.internal.ReflectToolsGetPrimitiveFieldValueTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.vaadin.flow.internal.ReflectToolsGetPrimitiveFieldValueTest
+[INFO] Running com.vaadin.flow.internal.LocaleUtilTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.246 s - in com.vaadin.flow.internal.LocaleUtilTest
+[INFO] Running com.vaadin.flow.internal.ReflectionCacheTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 s - in com.vaadin.flow.internal.ReflectionCacheTest
+[INFO] Running com.vaadin.flow.internal.ResponseWriterTest
+[INFO] Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.4 s - in com.vaadin.flow.internal.ResponseWriterTest
+[INFO] Running com.vaadin.flow.internal.BrowserLiveReloadImplTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.259 s - in com.vaadin.flow.internal.BrowserLiveReloadImplTest
+[INFO] Running com.vaadin.flow.internal.ReflectToolsGetFieldValueByTypeTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s - in com.vaadin.flow.internal.ReflectToolsGetFieldValueByTypeTest
+[INFO] Running com.vaadin.flow.internal.StateNodeTest
+[INFO] Tests run: 45, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.643 s - in com.vaadin.flow.internal.StateNodeTest
+[INFO] Running com.vaadin.flow.internal.CustomElementNameValidatorTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s - in com.vaadin.flow.internal.CustomElementNameValidatorTest
+[INFO] Running com.vaadin.flow.internal.ReflectToolsTest
+[INFO] Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.121 s - in com.vaadin.flow.internal.ReflectToolsTest
+[INFO] Running com.vaadin.flow.internal.UrlUtilTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.vaadin.flow.internal.UrlUtilTest
+[INFO] Running com.vaadin.flow.internal.BrowserLiveReloadAccessTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.34 s - in com.vaadin.flow.internal.BrowserLiveReloadAccessTest
+[INFO] Running com.vaadin.flow.internal.StringUtilTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 s - in com.vaadin.flow.internal.StringUtilTest
+[INFO] Running com.vaadin.flow.internal.JsonCodecTest
+[INFO] Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.068 s - in com.vaadin.flow.internal.JsonCodecTest
+[INFO] Running com.vaadin.flow.internal.RangeTest
+[INFO] Tests run: 39, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s - in com.vaadin.flow.internal.RangeTest
+[INFO] Running com.vaadin.flow.templatemodel.TemplateModelWithEncodersTest
+[INFO] Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.494 s - in com.vaadin.flow.templatemodel.TemplateModelWithEncodersTest
+[INFO] Running com.vaadin.flow.templatemodel.ModelDescriptorTest
+[INFO] Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in com.vaadin.flow.templatemodel.ModelDescriptorTest
+[INFO] Running com.vaadin.flow.templatemodel.BeanModelTypeTest
+[INFO] Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.255 s - in com.vaadin.flow.templatemodel.BeanModelTypeTest
+[INFO] Running com.vaadin.flow.templatemodel.PropertyFilterTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.vaadin.flow.templatemodel.PropertyFilterTest
+[INFO] Running com.vaadin.flow.templatemodel.TemplateModelTest
+[INFO] Tests run: 57, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.589 s - in com.vaadin.flow.templatemodel.TemplateModelTest
+[INFO] Running com.vaadin.flow.templatemodel.TemplateModelProxyHandlerTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.438 s - in com.vaadin.flow.templatemodel.TemplateModelProxyHandlerTest
+[INFO] Running com.vaadin.flow.templatemodel.TemplateModelListProxyTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.049 s - in com.vaadin.flow.templatemodel.TemplateModelListProxyTest
+[INFO] Running com.vaadin.flow.templatemodel.KnownUnsupportedTypesTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.407 s - in com.vaadin.flow.templatemodel.KnownUnsupportedTypesTest
+[INFO] Running com.vaadin.flow.component.webcomponent.WebComponentTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.39 s - in com.vaadin.flow.component.webcomponent.WebComponentTest
+[INFO] Running com.vaadin.flow.component.webcomponent.WebComponentWrapperTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.469 s - in com.vaadin.flow.component.webcomponent.WebComponentWrapperTest
+[INFO] Running com.vaadin.flow.component.polymertemplate.BundleParserTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.049 s - in com.vaadin.flow.component.polymertemplate.BundleParserTest
+[INFO] Running com.vaadin.flow.component.polymertemplate.TemplateInitializerTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.606 s - in com.vaadin.flow.component.polymertemplate.TemplateInitializerTest
+[INFO] Running com.vaadin.flow.component.polymertemplate.PolymerTemplateTest
+[INFO] Tests run: 32, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.557 s - in com.vaadin.flow.component.polymertemplate.PolymerTemplateTest
+[INFO] Running com.vaadin.flow.component.polymertemplate.DefaultTemplateParserTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.606 s - in com.vaadin.flow.component.polymertemplate.DefaultTemplateParserTest
+[INFO] Running com.vaadin.flow.component.polymertemplate.NpmTemplateParserTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.398 s - in com.vaadin.flow.component.polymertemplate.NpmTemplateParserTest
+[INFO] Running com.vaadin.flow.component.polymertemplate.InjectablePolymerElementInitializerTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.131 s - in com.vaadin.flow.component.polymertemplate.InjectablePolymerElementInitializerTest
+[INFO] Running com.vaadin.flow.component.HasSizeTest
+[INFO] Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.049 s - in com.vaadin.flow.component.HasSizeTest
+[INFO] Running com.vaadin.flow.component.HtmlImportJsModuleTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.553 s - in com.vaadin.flow.component.HtmlImportJsModuleTest
+[INFO] Running com.vaadin.flow.component.ShortcutEventTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.279 s - in com.vaadin.flow.component.ShortcutEventTest
+[INFO] Running com.vaadin.flow.component.CompositeTest
+[INFO] Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.466 s - in com.vaadin.flow.component.CompositeTest
+[INFO] Running com.vaadin.flow.component.AbstractFieldTest
+[INFO] Tests run: 27, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.095 s - in com.vaadin.flow.component.AbstractFieldTest
+[INFO] Running com.vaadin.flow.component.ComponentEventBusTest
+[INFO] Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.081 s - in com.vaadin.flow.component.ComponentEventBusTest
+[INFO] Running com.vaadin.flow.component.ComponentMetaDataTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 s - in com.vaadin.flow.component.ComponentMetaDataTest
+[INFO] Running com.vaadin.flow.component.internal.PendingJavaScriptInvocationTest
+[INFO] Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.276 s - in com.vaadin.flow.component.internal.PendingJavaScriptInvocationTest
+[INFO] Running com.vaadin.flow.component.internal.HtmlImportParserTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s - in com.vaadin.flow.component.internal.HtmlImportParserTest
+[INFO] Running com.vaadin.flow.component.internal.DependencyTreeCacheTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.243 s - in com.vaadin.flow.component.internal.DependencyTreeCacheTest
+[INFO] Running com.vaadin.flow.component.internal.HtmlDependencyParserTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.568 s - in com.vaadin.flow.component.internal.HtmlDependencyParserTest
+[INFO] Running com.vaadin.flow.component.internal.ServiceDependencyParserTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.572 s - in com.vaadin.flow.component.internal.ServiceDependencyParserTest
+[INFO] Running com.vaadin.flow.component.internal.PageTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.334 s - in com.vaadin.flow.component.internal.PageTest
+[INFO] Running com.vaadin.flow.component.internal.UIInternalsTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.464 s - in com.vaadin.flow.component.internal.UIInternalsTest
+[INFO] Running com.vaadin.flow.component.WebComponentExporterTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.374 s - in com.vaadin.flow.component.WebComponentExporterTest
+[INFO] Running com.vaadin.flow.component.LocationObserverTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.323 s - in com.vaadin.flow.component.LocationObserverTest
+[INFO] Running com.vaadin.flow.component.HasComponentsTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.065 s - in com.vaadin.flow.component.HasComponentsTest
+[INFO] Running com.vaadin.flow.component.AbstractCompositeFieldTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.124 s - in com.vaadin.flow.component.AbstractCompositeFieldTest
+[INFO] Running com.vaadin.flow.component.DefaultWebComponentExporterFactoryTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s - in com.vaadin.flow.component.DefaultWebComponentExporterFactoryTest
+[INFO] Running com.vaadin.flow.component.CompositeNestedTest
+[INFO] Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.057 s - in com.vaadin.flow.component.CompositeNestedTest
+[INFO] Running com.vaadin.flow.component.UnitTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.vaadin.flow.component.UnitTest
+[INFO] Running com.vaadin.flow.component.InvalidUrlTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.522 s - in com.vaadin.flow.component.InvalidUrlTest
+[INFO] Running com.vaadin.flow.component.FocusableTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.341 s - in com.vaadin.flow.component.FocusableTest
+[INFO] Running com.vaadin.flow.component.JavaScriptInvocationTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s - in com.vaadin.flow.component.JavaScriptInvocationTest
+[INFO] Running com.vaadin.flow.component.ComponentEventBusUtilTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.063 s - in com.vaadin.flow.component.ComponentEventBusUtilTest
+[INFO] Running com.vaadin.flow.component.NpmPackageTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.vaadin.flow.component.NpmPackageTest
+[INFO] Running com.vaadin.flow.component.TemplateComponentTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.636 s - in com.vaadin.flow.component.TemplateComponentTest
+[INFO] Running com.vaadin.flow.component.HasThemeTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s - in com.vaadin.flow.component.HasThemeTest
+[INFO] Running com.vaadin.flow.component.ComponentTest
+[INFO] Tests run: 75, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.143 s - in com.vaadin.flow.component.ComponentTest
+[INFO] Running com.vaadin.flow.component.HasHelperTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.05 s - in com.vaadin.flow.component.HasHelperTest
+[INFO] Running com.vaadin.flow.component.HTMLTest
+[INFO] Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.163 s - in com.vaadin.flow.component.HTMLTest
+[INFO] Running com.vaadin.flow.component.HasStyleTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s - in com.vaadin.flow.component.HasStyleTest
+[INFO] Running com.vaadin.flow.component.KeyTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in com.vaadin.flow.component.KeyTest
+[INFO] Running com.vaadin.flow.component.ShortcutRegistrationTest
+[INFO] Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.524 s - in com.vaadin.flow.component.ShortcutRegistrationTest
+[INFO] Running com.vaadin.flow.component.PropertyDescriptorsTest
+[INFO] Tests run: 49, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.058 s - in com.vaadin.flow.component.PropertyDescriptorsTest
+[INFO] Running com.vaadin.flow.component.DomEventTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.066 s - in com.vaadin.flow.component.DomEventTest
+[INFO] Running com.vaadin.flow.component.WebComponentConfigurationFactoryTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in com.vaadin.flow.component.WebComponentConfigurationFactoryTest
+[INFO] Running com.vaadin.flow.component.HasEnabledTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.049 s - in com.vaadin.flow.component.HasEnabledTest
+[INFO] Running com.vaadin.flow.component.AbstractSinglePropertyFieldTest
+[INFO] Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.329 s - in com.vaadin.flow.component.AbstractSinglePropertyFieldTest
+[INFO] Running com.vaadin.flow.component.HasOrderedComponentsTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.281 s - in com.vaadin.flow.component.HasOrderedComponentsTest
+[INFO] Running com.vaadin.flow.component.HasSizeUnitTest
+[INFO] Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.052 s - in com.vaadin.flow.component.HasSizeUnitTest
+[INFO] Running com.vaadin.flow.component.ComponentUtilTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 s - in com.vaadin.flow.component.ComponentUtilTest
+[INFO] Running com.vaadin.flow.component.UITest
+[INFO] Tests run: 38, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.618 s - in com.vaadin.flow.component.UITest
+[INFO] Running com.vaadin.flow.component.CompositeTextNodeTest
+[INFO] Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.455 s - in com.vaadin.flow.component.CompositeTextNodeTest
+[INFO] Running com.vaadin.flow.component.ShortcutsTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s - in com.vaadin.flow.component.ShortcutsTest
+[INFO] Running com.vaadin.flow.component.page.PageTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.365 s - in com.vaadin.flow.component.page.PageTest
+[INFO] Running com.vaadin.flow.component.page.ExtendedClientDetailsTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.314 s - in com.vaadin.flow.component.page.ExtendedClientDetailsTest
+[INFO] Running com.vaadin.flow.component.TextTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.042 s - in com.vaadin.flow.component.TextTest
+[INFO] Running com.vaadin.flow.shared.ui.DependencyTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s - in com.vaadin.flow.shared.ui.DependencyTest
+[INFO] Running com.vaadin.flow.shared.util.SharedUtilTests
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s - in com.vaadin.flow.shared.util.SharedUtilTests
+[INFO] Running com.vaadin.flow.shared.util.UniqueSerializableTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 s - in com.vaadin.flow.shared.util.UniqueSerializableTest
+[INFO] Running com.vaadin.flow.shared.BrowserDetailsTest
+[INFO] Tests run: 46, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 s - in com.vaadin.flow.shared.BrowserDetailsTest
+[INFO] Running com.vaadin.flow.shared.VaadinUriResolverTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.235 s - in com.vaadin.flow.shared.VaadinUriResolverTest
+[INFO] Running com.vaadin.flow.shared.RegistrationTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s - in com.vaadin.flow.shared.RegistrationTest
+[INFO] Running com.vaadin.flow.function.DeploymentConfigurationTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.249 s - in com.vaadin.flow.function.DeploymentConfigurationTest
+[INFO] Running com.vaadin.flow.theme.ThemeUtilTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.414 s - in com.vaadin.flow.theme.ThemeUtilTest
+[INFO] Running com.vaadin.flow.theme.AbstractThemeTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s - in com.vaadin.flow.theme.AbstractThemeTest
+[INFO] Running com.vaadin.flow.dom.BasicTextElementStateProviderTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s - in com.vaadin.flow.dom.BasicTextElementStateProviderTest
+[INFO] Running com.vaadin.flow.dom.ElementUtilTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.302 s - in com.vaadin.flow.dom.ElementUtilTest
+[INFO] Running com.vaadin.flow.dom.ShadowRootStateProviderTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.029 s - in com.vaadin.flow.dom.ShadowRootStateProviderTest
+[INFO] Running com.vaadin.flow.dom.DisabledUpdateModeTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.vaadin.flow.dom.DisabledUpdateModeTest
+[INFO] Running com.vaadin.flow.dom.BasicElementStateProviderTest
+[INFO] Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in com.vaadin.flow.dom.BasicElementStateProviderTest
+[INFO] Running com.vaadin.flow.dom.impl.ElementStateProviderDeserializationTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.081 s - in com.vaadin.flow.dom.impl.ElementStateProviderDeserializationTest
+[INFO] Running com.vaadin.flow.dom.impl.ThemeListImplTest
+[INFO] Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.034 s - in com.vaadin.flow.dom.impl.ThemeListImplTest
+[INFO] Running com.vaadin.flow.dom.ElementTest
+[INFO] Tests run: 226, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.838 s - in com.vaadin.flow.dom.ElementTest
+[INFO] Running com.vaadin.flow.dom.StyleUtilTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s - in com.vaadin.flow.dom.StyleUtilTest
+[INFO] Running com.vaadin.flow.dom.ShadowRootTest
+[INFO] Tests run: 61, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.093 s - in com.vaadin.flow.dom.ShadowRootTest
+[INFO] Running com.vaadin.flow.dom.ElementFactoryTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s - in com.vaadin.flow.dom.ElementFactoryTest
+[INFO] Running com.vaadin.flow.server.webcomponent.WebComponentConfigurationRegistryTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.539 s - in com.vaadin.flow.server.webcomponent.WebComponentConfigurationRegistryTest
+[INFO] Running com.vaadin.flow.server.webcomponent.PropertyConfigurationImplTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.044 s - in com.vaadin.flow.server.webcomponent.PropertyConfigurationImplTest
+[INFO] Running com.vaadin.flow.server.webcomponent.WebComponentExporterUtilsTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.021 s - in com.vaadin.flow.server.webcomponent.WebComponentExporterUtilsTest
+[INFO] Running com.vaadin.flow.server.webcomponent.WebComponentModulesWriterTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s - in com.vaadin.flow.server.webcomponent.WebComponentModulesWriterTest
+[INFO] Running com.vaadin.flow.server.webcomponent.WebComponentBindingTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s - in com.vaadin.flow.server.webcomponent.WebComponentBindingTest
+[INFO] Running com.vaadin.flow.server.webcomponent.OSGiWebComponentConfigurationRegistryTest
+[INFO] Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.514 s - in com.vaadin.flow.server.webcomponent.OSGiWebComponentConfigurationRegistryTest
+[INFO] Running com.vaadin.flow.server.webcomponent.WebComponentGeneratorTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 s - in com.vaadin.flow.server.webcomponent.WebComponentGeneratorTest
+[INFO] Running com.vaadin.flow.server.InitParametersTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.vaadin.flow.server.InitParametersTest
+[INFO] Running com.vaadin.flow.server.VaadinServiceTest
+[INFO] Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.397 s - in com.vaadin.flow.server.VaadinServiceTest
+[INFO] Running com.vaadin.flow.server.StaticFileServerTest
+[INFO] Tests run: 43, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.524 s - in com.vaadin.flow.server.StaticFileServerTest
+[INFO] Running com.vaadin.flow.server.OSGiVaadinServletTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.39 s - in com.vaadin.flow.server.OSGiVaadinServletTest
+[INFO] Running com.vaadin.flow.server.osgi.OSGiAccessTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.156 s - in com.vaadin.flow.server.osgi.OSGiAccessTest
+[INFO] Running com.vaadin.flow.server.DefaultDeploymentConfigurationTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 s - in com.vaadin.flow.server.DefaultDeploymentConfigurationTest
+[INFO] Running com.vaadin.flow.server.DevModeHandlerTest
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+[WARNING] Tests run: 34, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 7.69 s - in com.vaadin.flow.server.DevModeHandlerTest
+[INFO] Running com.vaadin.flow.server.SessionRouteRegistryTest
+[INFO] Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.453 s - in com.vaadin.flow.server.SessionRouteRegistryTest
+[INFO] Running com.vaadin.flow.server.StreamResourceRegistryTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.373 s - in com.vaadin.flow.server.StreamResourceRegistryTest
+[INFO] Running com.vaadin.flow.server.VaadinRequestTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.224 s - in com.vaadin.flow.server.VaadinRequestTest
+[INFO] Running com.vaadin.flow.server.DeploymentConfigurationFactoryTest
+[INFO] Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.344 s - in com.vaadin.flow.server.DeploymentConfigurationFactoryTest
+[INFO] Running com.vaadin.flow.server.VaadinServletRequestTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.25 s - in com.vaadin.flow.server.VaadinServletRequestTest
+[INFO] Running com.vaadin.flow.server.BootstrapHandlerPushConfigurationTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.665 s - in com.vaadin.flow.server.BootstrapHandlerPushConfigurationTest
+[INFO] Running com.vaadin.flow.server.UnsupportedBrowserHandlerTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.387 s - in com.vaadin.flow.server.UnsupportedBrowserHandlerTest
+[INFO] Running com.vaadin.flow.server.BootstrapHandlerTest
+[INFO] Tests run: 58, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.427 s - in com.vaadin.flow.server.BootstrapHandlerTest
+[INFO] Running com.vaadin.flow.server.StreamResourceTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.254 s - in com.vaadin.flow.server.StreamResourceTest
+[INFO] Running com.vaadin.flow.server.OSGiStaticFileServerTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.259 s - in com.vaadin.flow.server.OSGiStaticFileServerTest
+[INFO] Running com.vaadin.flow.server.DevModeHandlerStopTest
+[WARNING] Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.001 s - in com.vaadin.flow.server.DevModeHandlerStopTest
+[INFO] Running com.vaadin.flow.server.VaadinServletContextTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.268 s - in com.vaadin.flow.server.VaadinServletContextTest
+[INFO] Running com.vaadin.flow.server.VaadinServletConfigurationTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.333 s - in com.vaadin.flow.server.VaadinServletConfigurationTest
+[INFO] Running com.vaadin.flow.server.startup.OSGiInitApplicationRouteRegistryTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.303 s - in com.vaadin.flow.server.startup.OSGiInitApplicationRouteRegistryTest
+[INFO] Running com.vaadin.flow.server.startup.BundleFilterFactoryTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.576 s - in com.vaadin.flow.server.startup.BundleFilterFactoryTest
+[INFO] Running com.vaadin.flow.server.startup.AnnotationValidatorTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.248 s - in com.vaadin.flow.server.startup.AnnotationValidatorTest
+[INFO] Running com.vaadin.flow.server.startup.AbstractRouteRegistryInitializerTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in com.vaadin.flow.server.startup.AbstractRouteRegistryInitializerTest
+[INFO] Running com.vaadin.flow.server.startup.BundleDependencyFilterTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s - in com.vaadin.flow.server.startup.BundleDependencyFilterTest
+[INFO] Running com.vaadin.flow.server.startup.RouteRegistryInitializerTest
+[INFO] Tests run: 66, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.396 s - in com.vaadin.flow.server.startup.RouteRegistryInitializerTest
+[INFO] Running com.vaadin.flow.server.startup.WebComponentExporterAwareValidatorTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.259 s - in com.vaadin.flow.server.startup.WebComponentExporterAwareValidatorTest
+[INFO] Running com.vaadin.flow.server.startup.ServletContainerInitializerTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.486 s - in com.vaadin.flow.server.startup.ServletContainerInitializerTest
+[INFO] Running com.vaadin.flow.server.startup.WebComponentConfigurationRegistryInitializerTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.371 s - in com.vaadin.flow.server.startup.WebComponentConfigurationRegistryInitializerTest
+[INFO] Running com.vaadin.flow.server.startup.DevModeClassFinderTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 s - in com.vaadin.flow.server.startup.DevModeClassFinderTest
+[INFO] Running com.vaadin.flow.server.startup.OSGiApplicationRouteRegistryTest
+[INFO] Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.336 s - in com.vaadin.flow.server.startup.OSGiApplicationRouteRegistryTest
+[INFO] Running com.vaadin.flow.server.startup.LookupServletContainerInitializerTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.269 s - in com.vaadin.flow.server.startup.LookupServletContainerInitializerTest
+[INFO] Running com.vaadin.flow.server.startup.ApplicationRouteRegistryTest
+[INFO] Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 s - in com.vaadin.flow.server.startup.ApplicationRouteRegistryTest
+[INFO] Running com.vaadin.flow.server.startup.DevModeInitializerClassLoaderTest
+[WARNING] Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.001 s - in com.vaadin.flow.server.startup.DevModeInitializerClassLoaderTest
+[INFO] Running com.vaadin.flow.server.startup.CustomElementsTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 s - in com.vaadin.flow.server.startup.CustomElementsTest
+[INFO] Running com.vaadin.flow.server.startup.DevModeInitializerTest
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+
+------------------ Starting Frontend compilation. ------------------
+[INFO] Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.397 s - in com.vaadin.flow.server.startup.DevModeInitializerTest
+[INFO] Running com.vaadin.flow.server.startup.ServletDeployerTest
+Vaadin application has been deployed and started.
+Vaadin application has been deployed and started to the context path "/".
+Vaadin application has been deployed and started to the context path "/".
+Vaadin application has been deployed and started to the context path "/".
+Vaadin application has been deployed and started.
+Vaadin application has been deployed and started to the context path "/".
+[INFO] Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.329 s - in com.vaadin.flow.server.startup.ServletDeployerTest
+[INFO] Running com.vaadin.flow.server.WebBrowserTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s - in com.vaadin.flow.server.WebBrowserTest
+[INFO] Running com.vaadin.flow.server.CustomUIClassLoaderTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.296 s - in com.vaadin.flow.server.CustomUIClassLoaderTest
+[INFO] Running com.vaadin.flow.server.PwaRegistryTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.789 s - in com.vaadin.flow.server.PwaRegistryTest
+[INFO] Running com.vaadin.flow.server.AbstractDeploymentConfigurationTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 s - in com.vaadin.flow.server.AbstractDeploymentConfigurationTest
+[INFO] Running com.vaadin.flow.server.VaadinServletServiceTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.621 s - in com.vaadin.flow.server.VaadinServletServiceTest
+[INFO] Running com.vaadin.flow.server.frontend.NodeTasksTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s - in com.vaadin.flow.server.frontend.NodeTasksTest
+[INFO] Running com.vaadin.flow.server.frontend.UpdateThemedImportsTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.224 s - in com.vaadin.flow.server.frontend.UpdateThemedImportsTest
+[INFO] Running com.vaadin.flow.server.frontend.NodeUpdateImportsWithByteCodeScannerTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.283 s - in com.vaadin.flow.server.frontend.NodeUpdateImportsWithByteCodeScannerTest
+[INFO] Running com.vaadin.flow.server.frontend.FrontendToolsLocatorTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.135 s - in com.vaadin.flow.server.frontend.FrontendToolsLocatorTest
+[INFO] Running com.vaadin.flow.server.frontend.TaskCopyFrontendFilesTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.039 s - in com.vaadin.flow.server.frontend.TaskCopyFrontendFilesTest
+[INFO] Running com.vaadin.flow.server.frontend.FrontendVersionTest
+[INFO] Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.vaadin.flow.server.frontend.FrontendVersionTest
+[INFO] Running com.vaadin.flow.server.frontend.installer.DefaultArchiveExtractorTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s - in com.vaadin.flow.server.frontend.installer.DefaultArchiveExtractorTest
+[INFO] Running com.vaadin.flow.server.frontend.installer.NodeInstallerTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 s - in com.vaadin.flow.server.frontend.installer.NodeInstallerTest
+[INFO] Running com.vaadin.flow.server.frontend.installer.DefaultFileDownloaderTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in com.vaadin.flow.server.frontend.installer.DefaultFileDownloaderTest
+[INFO] Running com.vaadin.flow.server.frontend.NodeUpdatePackagesWithFullCPCodeScannerTest
+[INFO] Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.372 s - in com.vaadin.flow.server.frontend.NodeUpdatePackagesWithFullCPCodeScannerTest
+[INFO] Running com.vaadin.flow.server.frontend.TaskRunPnpmInstallTest
+[INFO] Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.633 s - in com.vaadin.flow.server.frontend.TaskRunPnpmInstallTest
+[INFO] Running com.vaadin.flow.server.frontend.NodeUpdaterTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.293 s - in com.vaadin.flow.server.frontend.NodeUpdaterTest
+[INFO] Running com.vaadin.flow.server.frontend.FrontendResourcesAreCopiedAfterCleaningTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in com.vaadin.flow.server.frontend.FrontendResourcesAreCopiedAfterCleaningTest
+[INFO] Running com.vaadin.flow.server.frontend.NodeUpdateImportsWithFullCPScannerTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.367 s - in com.vaadin.flow.server.frontend.NodeUpdateImportsWithFullCPScannerTest
+[INFO] Running com.vaadin.flow.server.frontend.UpdateImportsWithFullCPScannerTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.805 s - in com.vaadin.flow.server.frontend.UpdateImportsWithFullCPScannerTest
+[INFO] Running com.vaadin.flow.server.frontend.FrontendToolsTest
+[WARNING] Tests run: 19, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 2.314 s - in com.vaadin.flow.server.frontend.FrontendToolsTest
+[INFO] Running com.vaadin.flow.server.frontend.VersionsJsonFilterTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.019 s - in com.vaadin.flow.server.frontend.VersionsJsonFilterTest
+[INFO] Running com.vaadin.flow.server.frontend.FrontendUtilsTest
+[INFO] Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.396 s - in com.vaadin.flow.server.frontend.FrontendUtilsTest
+[INFO] Running com.vaadin.flow.server.frontend.VersionsJsonConverterTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 s - in com.vaadin.flow.server.frontend.VersionsJsonConverterTest
+[INFO] Running com.vaadin.flow.server.frontend.UpdateImportsWithByteCodeScannerTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.53 s - in com.vaadin.flow.server.frontend.UpdateImportsWithByteCodeScannerTest
+[INFO] Running com.vaadin.flow.server.frontend.NodeUpdatePackagesWithByteCodeScannerTest
+[INFO] Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.089 s - in com.vaadin.flow.server.frontend.NodeUpdatePackagesWithByteCodeScannerTest
+[INFO] Running com.vaadin.flow.server.frontend.scanner.FrontendDependenciesTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.873 s - in com.vaadin.flow.server.frontend.scanner.FrontendDependenciesTest
+[INFO] Running com.vaadin.flow.server.frontend.scanner.ScannerThemeTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.938 s - in com.vaadin.flow.server.frontend.scanner.ScannerThemeTest
+[INFO] Running com.vaadin.flow.server.frontend.scanner.ScannerDependenciesTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.226 s - in com.vaadin.flow.server.frontend.scanner.ScannerDependenciesTest
+[INFO] Running com.vaadin.flow.server.frontend.scanner.ClassFinderTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 s - in com.vaadin.flow.server.frontend.scanner.ClassFinderTest
+[INFO] Running com.vaadin.flow.server.frontend.scanner.ScannerCssTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.05 s - in com.vaadin.flow.server.frontend.scanner.ScannerCssTest
+[INFO] Running com.vaadin.flow.server.frontend.scanner.FullDependenciesScannerTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.279 s - in com.vaadin.flow.server.frontend.scanner.FullDependenciesScannerTest
+[INFO] Running com.vaadin.flow.server.frontend.JarContentsManagerTest
+[INFO] Tests run: 32, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.062 s - in com.vaadin.flow.server.frontend.JarContentsManagerTest
+[INFO] Running com.vaadin.flow.server.frontend.NodeUpdateImportsTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.375 s - in com.vaadin.flow.server.frontend.NodeUpdateImportsTest
+[INFO] Running com.vaadin.flow.server.frontend.ImportExtractorTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s - in com.vaadin.flow.server.frontend.ImportExtractorTest
+[INFO] Running com.vaadin.flow.server.frontend.TaskInstallWebpackPluginsTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.028 s - in com.vaadin.flow.server.frontend.TaskInstallWebpackPluginsTest
+[INFO] Running com.vaadin.flow.server.frontend.TaskUpdateWebpackTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 s - in com.vaadin.flow.server.frontend.TaskUpdateWebpackTest
+[INFO] Running com.vaadin.flow.server.frontend.TaskUpdateThemeImportTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.234 s - in com.vaadin.flow.server.frontend.TaskUpdateThemeImportTest
+[INFO] Running com.vaadin.flow.server.frontend.TaskRunNpmInstallTest
+[ERROR] Tests run: 12, Failures: 0, Errors: 9, Skipped: 0, Time elapsed: 4.948 s <<< FAILURE! - in com.vaadin.flow.server.frontend.TaskRunNpmInstallTest
+[ERROR] runNpmInstall_toolIsChanged_nodeModulesIsRemoved(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.762 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_toolIsChanged_nodeModulesIsRemoved(TaskRunNpmInstallTest.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_nonEmptyDirNoHashMatch_npmInstallIsExecuted(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.425 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_nonEmptyDirNoHashMatch_npmInstallIsExecuted(TaskRunNpmInstallTest.java:170)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_emptyDir_npmInstallIsExecuted(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.416 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_emptyDir_npmInstallIsExecuted(TaskRunNpmInstallTest.java:104)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_dirContainsOnlyFlowNpmPackage_npmInstallIsExecuted(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.422 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_dirContainsOnlyFlowNpmPackage_npmInstallIsExecuted(TaskRunNpmInstallTest.java:227)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_matchingHashButEmptyModules_npmInstallIsExecuted(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.421 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_matchingHashButEmptyModules_npmInstallIsExecuted(TaskRunNpmInstallTest.java:205)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_modified_npmInstallIsExecuted(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.413 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_modified_npmInstallIsExecuted(TaskRunNpmInstallTest.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_toolIsNotChanged_nodeModulesIsNotRemoved(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.414 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_toolIsNotChanged_nodeModulesIsNotRemoved(TaskRunNpmInstallTest.java:145)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_nodeModulesContainsStaging_npmInstallIsExecuted(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.412 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_nodeModulesContainsStaging_npmInstallIsExecuted(TaskRunNpmInstallTest.java:117)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[ERROR] runNpmInstall_nonEmptyDirNoLocalHash_npmInstallIsExecuted(com.vaadin.flow.server.frontend.TaskRunNpmInstallTest)  Time elapsed: 0.417 s  <<< ERROR!
+com.vaadin.flow.server.ExecutionFailedException: Npm install has exited with non zero status. Some dependencies are not installed. Check npm command output
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.runNpmInstall(TaskRunNpmInstall.java:444)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstall.execute(TaskRunNpmInstall.java:125)
+	at com.vaadin.flow.server.frontend.TaskRunNpmInstallTest.runNpmInstall_nonEmptyDirNoLocalHash_npmInstallIsExecuted(TaskRunNpmInstallTest.java:157)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:258)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junitcore.JUnitCore.run(JUnitCore.java:55)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:137)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:107)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:83)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:75)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:158)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+[INFO] Running com.vaadin.flow.server.I18NProviderTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.311 s - in com.vaadin.flow.server.I18NProviderTest
+[INFO] Running com.vaadin.flow.server.webjar.WebJarServerTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.vaadin.flow.server.webjar.WebJarServerTest
+[INFO] Running com.vaadin.flow.server.communication.StreamResourceHandlerTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.397 s - in com.vaadin.flow.server.communication.StreamResourceHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.EventRpcHandlerTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.067 s - in com.vaadin.flow.server.communication.rpc.EventRpcHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.AttachTemplateChildRpcHandlerTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.294 s - in com.vaadin.flow.server.communication.rpc.AttachTemplateChildRpcHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.StringToNumberDecoderTest
+[INFO] Tests run: 27, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 s - in com.vaadin.flow.server.communication.rpc.StringToNumberDecoderTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.ReturnChannelHandlerTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.378 s - in com.vaadin.flow.server.communication.rpc.ReturnChannelHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.MapSyncRpcHandlerTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.096 s - in com.vaadin.flow.server.communication.rpc.MapSyncRpcHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.PublishedServerEventHandlerRpcHandlerTest
+[INFO] Tests run: 29, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.458 s - in com.vaadin.flow.server.communication.rpc.PublishedServerEventHandlerRpcHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.EnumDecoderTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in com.vaadin.flow.server.communication.rpc.EnumDecoderTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.AttachExistingElementRpcHandlerTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.388 s - in com.vaadin.flow.server.communication.rpc.AttachExistingElementRpcHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.rpc.AbstractRpcInvocationHandlerTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.066 s - in com.vaadin.flow.server.communication.rpc.AbstractRpcInvocationHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.StreamRequestHandlerTest
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.512 s - in com.vaadin.flow.server.communication.StreamRequestHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.PushAtmosphereHandlerTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.4 s - in com.vaadin.flow.server.communication.PushAtmosphereHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.ServerRpcHandlerTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.51 s - in com.vaadin.flow.server.communication.ServerRpcHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.AtmospherePushConnectionTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.102 s - in com.vaadin.flow.server.communication.AtmospherePushConnectionTest
+[INFO] Running com.vaadin.flow.server.communication.WebComponentProviderTest
+[INFO] Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.504 s - in com.vaadin.flow.server.communication.WebComponentProviderTest
+[INFO] Running com.vaadin.flow.server.communication.WebComponentBootstrapHandlerTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.588 s - in com.vaadin.flow.server.communication.WebComponentBootstrapHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.PushHandlerTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.425 s - in com.vaadin.flow.server.communication.PushHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.StreamReceiverHandlerTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.583 s - in com.vaadin.flow.server.communication.StreamReceiverHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.UidlRequestHandlerTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.377 s - in com.vaadin.flow.server.communication.UidlRequestHandlerTest
+[INFO] Running com.vaadin.flow.server.communication.MetadataWriterTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.376 s - in com.vaadin.flow.server.communication.MetadataWriterTest
+[INFO] Running com.vaadin.flow.server.communication.UidlWriterTest
+[WARNING] Tests run: 7, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.718 s - in com.vaadin.flow.server.communication.UidlWriterTest
+[INFO] Running com.vaadin.flow.server.BootstrapContextTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.349 s - in com.vaadin.flow.server.BootstrapContextTest
+[INFO] Running com.vaadin.flow.server.BootstrapHandlerDependenciesTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.915 s - in com.vaadin.flow.server.BootstrapHandlerDependenciesTest
+[INFO] Running com.vaadin.flow.server.VaadinServletConfigTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.263 s - in com.vaadin.flow.server.VaadinServletConfigTest
+[INFO] Running com.vaadin.flow.server.VaadinSessionTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.347 s - in com.vaadin.flow.server.VaadinSessionTest
+[INFO] Running com.vaadin.flow.server.FrontendVaadinServletTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.265 s - in com.vaadin.flow.server.FrontendVaadinServletTest
+[INFO] Running com.vaadin.flow.server.VaadinServletTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.528 s - in com.vaadin.flow.server.VaadinServletTest
+[INFO] Running com.vaadin.flow.di.DefaultInstantiatorTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.351 s - in com.vaadin.flow.di.DefaultInstantiatorTest
+[INFO] Running com.vaadin.flow.di.LookupIntializerTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.326 s - in com.vaadin.flow.di.LookupIntializerTest
+[INFO] Running com.vaadin.flow.router.ParameterDeserializerTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 s - in com.vaadin.flow.router.ParameterDeserializerTest
+[INFO] Running com.vaadin.flow.router.EventUtilTest
+[INFO] Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.418 s - in com.vaadin.flow.router.EventUtilTest
+[INFO] Running com.vaadin.flow.router.RouterLayoutTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s - in com.vaadin.flow.router.RouterLayoutTest
+[INFO] Running com.vaadin.flow.router.internal.ConfiguredRoutesTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 s - in com.vaadin.flow.router.internal.ConfiguredRoutesTest
+[INFO] Running com.vaadin.flow.router.internal.HasUrlParameterFormatTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s - in com.vaadin.flow.router.internal.HasUrlParameterFormatTest
+[INFO] Running com.vaadin.flow.router.internal.PathUtilTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.vaadin.flow.router.internal.PathUtilTest
+[INFO] Running com.vaadin.flow.router.internal.AbstractRouteRegistryTest
+[INFO] Tests run: 38, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.054 s - in com.vaadin.flow.router.internal.AbstractRouteRegistryTest
+[INFO] Running com.vaadin.flow.router.internal.RouteUtilTest
+[INFO] Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 s - in com.vaadin.flow.router.internal.RouteUtilTest
+[INFO] Running com.vaadin.flow.router.internal.RouteModelTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 s - in com.vaadin.flow.router.internal.RouteModelTest
+[INFO] Running com.vaadin.flow.router.internal.ConfigureRoutesTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 s - in com.vaadin.flow.router.internal.ConfigureRoutesTest
+[INFO] Running com.vaadin.flow.router.internal.ErrorStateRendererTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.329 s - in com.vaadin.flow.router.internal.ErrorStateRendererTest
+[INFO] Running com.vaadin.flow.router.internal.NavigationStateRendererTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.438 s - in com.vaadin.flow.router.internal.NavigationStateRendererTest
+[INFO] Running com.vaadin.flow.router.RouterConfigurationUrlResolvingTest
+[INFO] Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.486 s - in com.vaadin.flow.router.RouterConfigurationUrlResolvingTest
+[INFO] Running com.vaadin.flow.router.QueryParametersTest
+[INFO] Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s - in com.vaadin.flow.router.QueryParametersTest
+[INFO] Running com.vaadin.flow.router.RouteParametersTest
+[INFO] Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s - in com.vaadin.flow.router.RouteParametersTest
+[INFO] Running com.vaadin.flow.router.RouterLinkTest
+[INFO] Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.447 s - in com.vaadin.flow.router.RouterLinkTest
+[INFO] Running com.vaadin.flow.router.LocationTest
+[INFO] Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.018 s - in com.vaadin.flow.router.LocationTest
+[INFO] Running com.vaadin.flow.router.DefaultRouteResolverTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 s - in com.vaadin.flow.router.DefaultRouteResolverTest
+[INFO] Running com.vaadin.flow.router.RouteConfigurationTest
+[INFO] Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.401 s - in com.vaadin.flow.router.RouteConfigurationTest
+[INFO] Running com.vaadin.flow.router.RouteNotFoundErrorTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.509 s - in com.vaadin.flow.router.RouteNotFoundErrorTest
+[INFO] Running com.vaadin.flow.router.ErrorParameterTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.vaadin.flow.router.ErrorParameterTest
+[INFO] Running com.vaadin.flow.router.HighlightConditionsTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.33 s - in com.vaadin.flow.router.HighlightConditionsTest
+[INFO] Running com.vaadin.flow.router.InternalServerErrorTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.4 s - in com.vaadin.flow.router.InternalServerErrorTest
+[INFO] Running com.vaadin.flow.router.RouterTest
+[INFO] Tests run: 124, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.816 s - in com.vaadin.flow.router.RouterTest
+[INFO] Running com.vaadin.AssertionTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.vaadin.AssertionTest
+[INFO] Running com.vaadin.tests.server.SerializationTest
+com.vaadin.flow.server.VaadinSession@5a39699c does NOT equal com.vaadin.flow.server.VaadinSession@60f82f98
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.02 s - in com.vaadin.tests.server.SerializationTest
+[INFO] Running com.vaadin.tests.server.component.FlowClassesSerializableTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.342 s - in com.vaadin.tests.server.component.FlowClassesSerializableTest
+[INFO] Running com.vaadin.tests.server.AtmosphereVersionTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s - in com.vaadin.tests.server.AtmosphereVersionTest
+[INFO] Running com.vaadin.tests.server.AssertionsEnabledTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.vaadin.tests.server.AssertionsEnabledTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Errors: 
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_dirContainsOnlyFlowNpmPackage_npmInstallIsExecuted:227 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_emptyDir_npmInstallIsExecuted:104 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_matchingHashButEmptyModules_npmInstallIsExecuted:205 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_modified_npmInstallIsExecuted:236 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_nodeModulesContainsStaging_npmInstallIsExecuted:117 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_nonEmptyDirNoHashMatch_npmInstallIsExecuted:170 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_nonEmptyDirNoLocalHash_npmInstallIsExecuted:157 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_toolIsChanged_nodeModulesIsRemoved:131 » ExecutionFailed
+[ERROR]   TaskRunNpmInstallTest.runNpmInstall_toolIsNotChanged_nodeModulesIsNotRemoved:145 » ExecutionFailed
+[INFO] 
+[ERROR] Tests run: 3077, Failures: 0, Errors: 9, Skipped: 5
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  05:07 min
+[INFO] Finished at: 2022-07-16T11:20:01-04:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project flow-server: There are test failures.
+[ERROR] 
+[ERROR] Please refer to /home/yiwu/Documents/nvd/projects/flow-cve/flow-server/target/surefire-reports for the individual test results.
+[ERROR] Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
