@@ -1,10 +1,10 @@
 {
     "buggy_file_path": "flow-server/src/main/java/com/vaadin/flow/router/RouteNotFoundError.java",
     "buggy_method":[[46,69]],
-    "buggy_line":[[61,62],[67]],
-    "bug_type": "deletion and insertion",
-    "compile_cmd": "mvn clean compile",
-    "test_cmd" : "mvn clean test",
+    "buggy_line":[[61,65]],
+    "bug_type": "insertion",
+    "compile_cmd": "mvn clean compile -pl flow-server",
+    "test_cmd" : "mvn clean test -pl flow-server -Dtest=RouteNotFoundErrorTest",
     "CVE": "CVE-2021-33604",
     "github_url":"https://github.com/vaadin/flow"
 }
