@@ -5,6 +5,6 @@
     "bug_type": "insertion",
     "compile_cmd": "mvn clean compile -pl flow-server",
     "test_cmd" : "mvn clean test -pl flow-server -Dtest=RouteNotFoundErrorTest",
-    "CVE": "CVE-2021-33604",
+    "CVE": "CVE-2021-31412",
     "github_url":"https://github.com/vaadin/flow"
 }
