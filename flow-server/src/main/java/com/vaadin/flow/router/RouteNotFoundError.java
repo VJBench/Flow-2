@@ -21,18 +21,18 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 import java.util.stream.Collectors;
-
+import com.vaadin.flow.function.DeploymentConfiguration;
 import org.apache.commons.io.IOUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import org.jsoup.safety.Whitelist;
 import org.slf4j.LoggerFactory;
-
+import com.vaadin.flow.server.VaadinSession;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Html;
 import com.vaadin.flow.component.Tag;
 import com.vaadin.flow.router.internal.DefaultErrorHandler;
-
+import com.vaadin.flow.component.UI;
 /**
  * This is a basic default error view shown on routing exceptions.
  *
